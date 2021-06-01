@@ -6,4 +6,4 @@ oauthlib==0.7.2
 requests==2.6.0
 requests-oauthlib==0.4.2
 TwitterAPI==2.3.3
-urllib3==1.10.2
+urllib3==1.26.5
